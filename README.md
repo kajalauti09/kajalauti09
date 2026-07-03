@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @kajalauti09
-- 👀 I’m interested in achieving the milestones in software testing
-- 🌱 I’m currently learning Automation Testing ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  https://www.linkedin.com/in/kajal-auti-655736227/...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-kajalauti09/kajalauti09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a Software Testing Engineer with over 7+
+years of experience in Retail and Investment Banking
+and Telecom domains. I handled functional,
+regression, and integration testing for Salesforce modules. My work significantly
+improved defect detection efficiency by 30%, and I have a robust understanding
+of the Banking Products domain, including Liabilities, Assets, and Wealth
+Management. I am skilled in using SQL for database testing and apply Agile
+methodologies throughout the software development life cycle. My proficiency
+in using tools like JIRA and HP-ALM.
